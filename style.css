@@ -1,0 +1,25 @@
+main {
+    width: 900px;
+    margin: auto;
+
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+}    
+div {
+    text-align: center;
+}
+header {
+    font-style: italic;
+}
+
+#recipecard {
+    background-image: url('img/list-bg.png');
+    height: 305px;
+    width: 899px;
+}
+ul {
+    list-style: none;
+}
